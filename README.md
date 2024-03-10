@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="./img/netflixlogo.png"/>
+<img src="./assets/img/netflixlogo.png"/>
 <p>Clone NetfLix! 🎥🎥<p>
 </h1>
 
